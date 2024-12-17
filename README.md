@@ -19,3 +19,14 @@
   <li>🛠️ <strong>Ferramentas</strong><br>
     Scripts para automação de pipelines e tarefas repetitivas usando <code>Python</code>.
   </li>
+</ul>
+
+<h2>💻 TECNOLOGIAS UTILIZADAS</h2>
+<ul>
+  <li>🐍 Python</li>
+  <li>📊 Pandas</li>
+  <li>🔢 NumPy</li>
+  <li>🤖 Scikit-learn</li>
+  <li>📉 Matplotlib & Seaborn</li>
+  <li>🔥 TensorFlow / PyTorch</li>
+</ul>
