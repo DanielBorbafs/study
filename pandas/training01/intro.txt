@@ -1,19 +1,5 @@
-Desafios de Análise de Dados com Pandas
-1. Carregar e Visualizar os Dados
-Desafio: Carregar a base de dados em um DataFrame e exibir as primeiras e últimas 5 linhas.
-Objetivo: Entender a estrutura dos dados e verificar se há valores ausentes ou inconsistências.
-2. Limpeza e Preparo de Dados
-Desafio: Verificar e tratar dados ausentes.
-Objetivo: Identificar valores NaN e decidir se é necessário remover ou preencher com valores adequados (como média, mediana ou moda).
-3. Resumo Estatístico
-Desafio: Gerar um resumo estatístico dos salários e idades.
-Objetivo: Obter informações como média, mediana, desvio padrão, valores máximos e mínimos, etc., para analisar a distribuição dos salários e idades.
-4. Distribuição de Salários por Departamento
-Desafio: Calcular a média, o valor máximo e o valor mínimo dos salários por departamento.
-Objetivo: Verificar quais departamentos estão pagando mais ou menos em média e encontrar possíveis discrepâncias salariais entre departamentos.
-5. Identificar Funcionários com Salários Acima de um Certo Limite
-Desafio: Filtrar os funcionários que ganham acima de um valor específico (por exemplo, R$10.000).
-Objetivo: Identificar os funcionários que recebem salários mais altos e explorar suas características.
+
+
 6. Análise de Gênero e Salário
 Desafio: Comparar a média de salários entre homens e mulheres.
 Objetivo: Avaliar se existe uma disparidade salarial entre os gêneros.
