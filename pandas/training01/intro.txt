@@ -1,35 +1,7 @@
 
 
-6. Análise de Gênero e Salário
-Desafio: Comparar a média de salários entre homens e mulheres.
-Objetivo: Avaliar se existe uma disparidade salarial entre os gêneros.
-7. Contagem de Funcionários por Cargo
-Desafio: Contabilizar o número de funcionários por cargo.
-Objetivo: Verificar como os cargos estão distribuídos na empresa e identificar cargos mais ou menos comuns.
-8. Função de Crescimento Salarial
-Desafio: Calcular a variação percentual no salário de cada funcionário desde sua data de admissão até o presente.
-Objetivo: Analisar o crescimento salarial individual ao longo do tempo.
-9. Funcionários Mais Antigos
-Desafio: Encontrar os 5 funcionários mais antigos da empresa (baseado na data de admissão).
-Objetivo: Identificar funcionários com maior tempo de casa e verificar se há alguma correlação entre tempo de empresa e salário.
-10. Análise de Idade por Cargo
-Desafio: Calcular a média de idade por cargo.
-Objetivo: Verificar se certos cargos são dominados por profissionais mais jovens ou mais velhos.
-11. Agrupamento por Faixa Etária
-Desafio: Criar faixas etárias (exemplo: 20-30, 31-40, 41-50, etc.) e calcular a quantidade de funcionários por faixa etária.
-Objetivo: Entender a distribuição etária dos funcionários e se há concentração de pessoas em determinadas faixas.
-12. Análise de Desempenho por Departamento
-Desafio: Criar uma análise de desempenho por departamento, se houver uma coluna de desempenho (ex: avaliação de desempenho ou metas atingidas).
-Objetivo: Comparar como diferentes departamentos estão se saindo com base nas avaliações de desempenho.
-13. Reajuste Salarial por Ano
-Desafio: Criar uma coluna de "ano de reajuste salarial" e calcular a média de reajustes anuais.
-Objetivo: Identificar se os reajustes estão sendo feitos de forma consistente ao longo dos anos.
-14. Funcionários que Mudaram de Cargo
-Desafio: Verificar quais funcionários mudaram de cargo e qual foi a mudança em seus salários.
-Objetivo: Analisar a mobilidade interna na empresa e se há aumento salarial associado à mudança de cargo.
-15. Top 5 Funcionários com Maiores Salários
-Desafio: Encontrar os 5 funcionários com os maiores salários.
-Objetivo: Identificar quem são os top 5 funcionários mais bem pagos e analisar suas características.
+
+
 16. Visualizações de Dados
 Desafio: Criar gráficos utilizando o matplotlib ou seaborn para visualizar a distribuição dos salários, idade e outros aspectos relevantes.
 Objetivo: Aprender a visualizar dados importantes de forma clara, como histogramas de distribuição salarial, boxplots, ou gráficos de barras por departamento.
