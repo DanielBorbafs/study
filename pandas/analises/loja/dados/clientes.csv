@@ -1,0 +1,6 @@
+ClientID,ClientName,Region,TotalPurchases
+1,Alice,North,120.0
+2,Bob,South,80.0
+3,Charlie,East,150.0
+4,Diana,West,200.0
+5,Eve,North,50.0

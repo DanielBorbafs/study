@@ -1,0 +1,4 @@
+Quais são os produtos mais vendidos e os menos vendidos?
+Qual é o desempenho de vendas por região ou canal de vendas (loja física vs. e-commerce)?
+Quais clientes são responsáveis pela maior parte do faturamento?
+Qual é o custo médio por produto e o impacto de despesas fixas e variáveis no lucro?
