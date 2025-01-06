@@ -1,4 +1,4 @@
-<h1 align="center">🚀 DATA SCIENCE & MACHINE LEARNING PLAYGROUND 📊</h1>
+<h2 align="center">🚀 DATA SCIENCE & MACHINE LEARNING PLAYGROUND 📊</h2>
 
 <p align="center">
   Bem-vindo ao meu espaço de aprendizado e experimentação em <strong>Data Science</strong> e <strong>Machine Learning</strong>! 🎓<br>
