@@ -1,0 +1,1 @@
+![Modelo de dados](./imgs/databaseNextplay.png)
