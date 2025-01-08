@@ -10,14 +10,13 @@
 <h2>🧰 CONTEÚDO DO REPOSITÓRIO</h2>
 
 <ul>
+  <li>🛠️<strong>Introdução</strong><br>
+  Uma introdução abrangente ao campo de estudos, com foco em técnicas e ferramentas essenciais aplicadas à área de dados
   <li>📈 <strong>Análise de Dados</strong><br>
     Exploração, limpeza e visualização de dados com <code>Pandas</code> e <code>Matplotlib</code>.
   </li>
   <li>🤖 <strong>Machine Learning</strong><br>
     Implementação de algoritmos supervisionados e não supervisionados com <code>Scikit-learn</code> e <code>TensorFlow</code>.
-  </li>
-  <li>🛠️ <strong>Ferramentas</strong><br>
-    Scripts para automação de pipelines e tarefas repetitivas usando <code>Python</code>.
   </li>
 </ul>
 
