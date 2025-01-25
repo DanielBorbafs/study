@@ -22,6 +22,32 @@ VALUES
 (120, 'Resident Evil 4 Remake', 'Ação', 22, 50.00, 85.00, GETDATE()),
 (121, 'Xbox Series X', 'Console', 6, 2200.00, 3500.00, GETDATE()),
 (122, 'PlayStation 5', 'Console', 4, 2500.00, 4000.00, GETDATE()),
-(123, 'Volante Logitech G29', 'Acessórios', 10, 1100.00, 1800.00, GETDATE());
+(123, 'Volante Logitech G29', 'Acessórios', 10, 1100.00, 1800.00, GETDATE()),
+(124, 'The Sims 4', 'Simulação', 40, 100.00, 150.00, GETDATE()),
+(125, 'Overwatch 2', 'FPS', 35, 150.00, 200.00, GETDATE()),
+(126, 'Mario Kart 8 Deluxe', 'Corrida', 25, 250.00, 300.00, GETDATE()),
+(127, 'Horizon Zero Dawn', 'Ação', 20, 80.00, 120.00, GETDATE()),
+(128, 'Headset Gamer Logitech G432', 'Acessórios', 18, 250.00, 350.00, GETDATE()),
+(129, 'Teclado Gamer Corsair K70 RGB', 'Acessórios', 8, 700.00, 900.00, GETDATE()),
+(130, 'Controle Xbox Series S/X', 'Acessórios', 15, 350.00, 500.00, GETDATE()),
+(131, 'God of War Ragnarök', 'Ação', 30, 250.00, 350.00, GETDATE()),
+(132, 'Persona 5 Royal', 'RPG', 22, 200.00, 300.00, GETDATE()),
+(133, 'Sekiro: Shadows Die Twice', 'Ação', 18, 150.00, 250.00, GETDATE()),
+(134, 'Animal Crossing: New Horizons', 'Simulação', 20, 250.00, 350.00, GETDATE()),
+(135, 'Ring Fit Adventure', 'Esportes', 12, 600.00, 800.00, GETDATE()),
+(136, 'Ghost of Tsushima', 'Ação', 25, 200.00, 300.00, GETDATE()),
+(137, 'Metroid Dread', 'Ação', 15, 250.00, 350.00, GETDATE()),
+(138, 'Halo Infinite', 'FPS', 28, 250.00, 350.00, GETDATE()),
+(139, 'Forza Horizon 5', 'Corrida', 20, 250.00, 350.00, GETDATE()),
+(140, 'Ratchet & Clank: Rift Apart', 'Ação', 18, 250.00, 350.00, GETDATE()),
+(141, 'DemonS Souls', 'RPG', 10, 350.00, 450.00, GETDATE()),
+(142, 'Returnal', 'Ação', 12, 300.00, 400.00, GETDATE()),
+(143, 'Far Cry 6', 'Ação', 22, 250.00, 350.00, GETDATE()),
+(144, 'NBA 2K24', 'Esportes', 16, 300.00, 400.00, GETDATE()),
+(145, 'F1 2024', 'Corrida', 14, 250.00, 350.00, GETDATE()),
+(146, 'Mass Effect Legendary Edition', 'RPG', 20, 200.00, 300.00, GETDATE()),
+(147, 'Resident Evil Village', 'Terror', 25, 250.00, 350.00, GETDATE()),
+(148, 'Death Stranding', 'Ação', 18, 200.00, 300.00, GETDATE());
+GO
 
 
