@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 # Configuração do template de dados
 np.random.seed(42)
-n_rows = 1000
+n_rows = 2000
 platforms = ['Mobile', 'Web', 'Tablet']
 countries = ['BR', 'US', 'UK', 'DE', 'FR', 'JP', 'CA']
 
