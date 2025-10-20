@@ -7,3 +7,7 @@ Uma rede de computadores é qualquer grupo de dispositivos de computação inter
 A rede de computadores mais simples é composta por dois dispositivos conforme a imagem:
 
 ![[rede simples.png]]
+
+Uma rede como essa só precisa se preocupar com algumas coisas, como conectar fisicamente dois dispositivos e como enviar dados pela conexão física em um formato que ambos entendam.
+
+Todos os dispositivos de computação na internet se comunicam em binário [[03 - Bytes]]. Sejam conectados por fio ou sem fio, eles enviam sinais eletromagnéticos que representam fluxos de 1s e 0s.

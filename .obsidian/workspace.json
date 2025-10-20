@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Fundamentos ciência da computação e Redes/Redes/01 - Introdução a redes.md",
+                "file": "02 - Estrutura de dados e algoritmos/02 - Medindo a Eficiência de algoritmos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Introdução a redes"
+              "title": "02 - Medindo a Eficiência de algoritmos"
             }
           }
         ]
@@ -171,21 +171,31 @@
   },
   "active": "49afee83e6190c64",
   "lastOpenFiles": [
+    "02 - Estrutura de dados e algoritmos/01 - Introdução a algoritmo.md",
+    "02 - Estrutura de dados e algoritmos/02 - Medindo a Eficiência de algoritmos.md",
+    "~$cronograma_estudo.xlsx",
+    "imagens/algoritmos.png",
+    "01 - Fundamentos ciência da computação e Redes/Redes/04 - Endereços de IP.md",
+    "01 - Fundamentos ciência da computação e Redes/Redes/06 - World Wide Web.md",
+    "01 - Fundamentos ciência da computação e Redes/Redes/05 - Protocolos de redes - RESUMO.md",
+    "imagens/tcpip 1.png",
+    "imagens/tcpip.png",
+    "imagens/ipv6.png",
+    "01 - Fundamentos ciência da computação e Redes/Redes/01 - Introdução a redes.md",
+    "01 - Fundamentos ciência da computação e Redes/Redes/03 - Tipos de redes.md",
+    "imagens/WAN.png",
+    "imagens/lan.png",
+    "01 - Fundamentos ciência da computação e Redes/Redes/02 - Topologias de redes.md",
+    "imagens/topologia de rede.png",
+    "imagens/Topologias.png",
     "imagens/rede simples.png",
     "01 - Fundamentos ciência da computação e Redes/Ciência da computação/03 - Bytes.md",
-    "01 - Fundamentos ciência da computação e Redes/Redes/01 - Introdução a redes.md",
     "01 - Fundamentos ciência da computação e Redes/Redes",
     "01 - Fundamentos ciência da computação e Redes/Sem título.md",
     "01 - Fundamentos ciência da computação e Redes/Ciência da computação/02 - Pensamento computacional.md",
     "imagens/bytes.png",
     "01 - Fundamentos ciência da computação e Redes/Ciência da computação/01 - Primeiras máquinas computacionais - RESUMO.md",
-    "imagens/sound_bits.png",
-    "imagens/strings.png",
-    "imagens/Binary System.png",
-    "imagens/ANIAC.png",
-    "imagens/analytical engine.png",
     "imagens",
-    "imagens/abaco.png",
     "01 - Fundamentos ciência da computação e Redes/Ciência da computação",
     "00 - Ferramentas extras/N8N.md",
     "00 - Ferramentas extras/Docker.md",
@@ -195,7 +205,6 @@
     "00 - Ferramentas extras",
     "07 - Visualizações de Dados",
     "06 - NOSQL",
-    "05 - SQL avançado",
     "README.md",
     "02 - SQL/t.md"
   ]
