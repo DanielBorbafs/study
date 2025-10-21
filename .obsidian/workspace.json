@@ -11,17 +11,28 @@
             "id": "49afee83e6190c64",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "68995d8d8cec6a61",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Estrutura de dados e algoritmos/02 - Medindo a Eficiência de algoritmos.md",
+                "file": "02 - Estrutura de dados e algoritmos/03 - Matrizes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Medindo a Eficiência de algoritmos"
+              "title": "03 - Matrizes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,10 +180,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "49afee83e6190c64",
+  "active": "68995d8d8cec6a61",
   "lastOpenFiles": [
+    "02 - Estrutura de dados e algoritmos/04 - Classificação por bolha.md",
+    "02 - Estrutura de dados e algoritmos/03 - Matrizes.md",
+    "02 - Estrutura de dados e algoritmos/02 - Estrutura de dados.md",
+    "01 - Fundamentos ciência da computação e Redes/Ciência da computação/02 - Pensamento computacional.md",
+    "02 - Estrutura de dados e algoritmos/0100 - Medindo a Eficiência de algoritmos.md",
     "02 - Estrutura de dados e algoritmos/01 - Introdução a algoritmo.md",
-    "02 - Estrutura de dados e algoritmos/02 - Medindo a Eficiência de algoritmos.md",
     "~$cronograma_estudo.xlsx",
     "imagens/algoritmos.png",
     "01 - Fundamentos ciência da computação e Redes/Redes/04 - Endereços de IP.md",
@@ -192,7 +207,6 @@
     "01 - Fundamentos ciência da computação e Redes/Ciência da computação/03 - Bytes.md",
     "01 - Fundamentos ciência da computação e Redes/Redes",
     "01 - Fundamentos ciência da computação e Redes/Sem título.md",
-    "01 - Fundamentos ciência da computação e Redes/Ciência da computação/02 - Pensamento computacional.md",
     "imagens/bytes.png",
     "01 - Fundamentos ciência da computação e Redes/Ciência da computação/01 - Primeiras máquinas computacionais - RESUMO.md",
     "imagens",
